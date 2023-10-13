@@ -1,0 +1,24 @@
+Used guide: https://amigoscode.com/courses/515567/lectures/9454009
+
+CREATE DATABASE "name"
+\l to check em
+\c "name" to connect to the database
+
+DONT FORGET SEMICOLONS :) ;
+
+\d to describe what you just did
+
+CREATE TABLE "name" ("inputs")
+ \d monster to check
+
+DROP TABLE "name"
+
+INSERT INTO monster (name, hp)
+VALUES ()
+
+SELECT * FROM monster;
+
+mockaroo.com to create mock data
+
+\i "path"
+to install from a .sql file
